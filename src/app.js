@@ -7,11 +7,9 @@ console.log(sumNumber);
 let admin;
 let name;
 
-name = 'Іван';
+name = 'Name';
 admin = name;
 
 alert(admin);
-
-const earth = true;
 
 let currentUser = 'Name';
