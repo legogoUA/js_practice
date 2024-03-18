@@ -17,3 +17,5 @@ console.log(moment().format('MMMM Do YYYY, h:mm:ss a'));
 console.log(moment().format("MMM Do YY"));
 console.log(moment().calendar());
 console.log(moment().format('llll'));
+
+console.log(`Hello world: ${moment().format("MMM Do YY")}`)
